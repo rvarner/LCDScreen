@@ -1,0 +1,21 @@
+#######################################
+# Syntax Coloring Map For LCDScreen
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+LCDScreen	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+init	KEYWORD2
+cls	KEYWORD2
+clsHome	KEYWORD2
+print	KEYWORD2
+defineVar	KEYWORD2
+printRightArrow	KEYWORD2
+printLeftArrow	KEYWORD2
+newline	KEYWORD2
